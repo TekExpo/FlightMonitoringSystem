@@ -1,8 +1,6 @@
 # FlightMonitoringSystem
 This is a sample app created using Microsoft Graph Toolkit. In this example user can view the items from the SharePoint list and also update the list items using MGT
 
-1. 
-
 ## Prerequisites
 - A text editor or IDE. You can install and use Visual Studio Code for free.
 - Live Server(https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or a similar lightweight development server.
@@ -26,9 +24,7 @@ In this step you'll register an application in the Azure AD admin center. This i
 1. Select **Add a permission**, then select **Microsoft Graph**.
 1. Select **Application permissions**, then select the **Sites.Read.All, Sites.ReadWrite.All** permission. Select **Add permissions**.
 1. Select **Grant admin consent for {TENANT}**, then select **Yes** when prompted.
-1. Select **Certificates & secrets** under **Manage**, then select **New client secret**.
-1. Enter a description and choose an expiration time for the secret, then select **Add**.
-1. Copy the new secret, you'll need it in the next section.
+
 
 ## Configure the app
 
